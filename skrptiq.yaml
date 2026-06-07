@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "7dc02052-196d-4a64-999c-74719e756407"
+id: "73ec1f43-ed87-4ed1-bb1b-13f180604cdb"
 name: "optimise-conversion"
 display_name: "Optimise Conversion"
 description: "Identifies friction points and recommends improvements to conversion funnels"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
