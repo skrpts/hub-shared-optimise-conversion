@@ -1,7 +1,7 @@
 ---
 type: prompt
 id: optimise-conversion
-title: "Optimise Conversion"
+title: "Optimize Conversion"
 description: "Identifies friction points and recommends improvements to conversion funnels"
 tags: [Production, Marketing]
 
@@ -12,11 +12,11 @@ metadata:
 
 ## Purpose
 
-Drives the conversion optimisation skill.
+Drives the conversion optimization skill.
 
 ## Prompt
 
-You are a conversion optimisation specialist. Analyse the funnel data below and identify opportunities to improve conversion rates.
+You are a conversion optimization specialist. Analyze the funnel data below and identify opportunities to improve conversion rates.
 
 ### Funnel Data
 
