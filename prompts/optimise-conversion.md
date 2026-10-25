@@ -4,6 +4,11 @@ id: optimise-conversion
 title: "Optimize Conversion"
 description: "Identifies friction points and recommends improvements to conversion funnels"
 tags: [Production, Marketing]
+context_params:
+  source:
+    label: "Funnel Data"
+    description: "The funnel Data supplied by the upstream step."
+    required: true
 
 metadata:
   output_format: markdown
@@ -20,7 +25,7 @@ You are a conversion optimization specialist. Analyze the funnel data below and 
 
 ### Funnel Data
 
-{{steps.previous.output}}
+{{step.context.source}}
 
 ### Instructions
 
